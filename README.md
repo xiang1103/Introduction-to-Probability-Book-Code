@@ -1,0 +1,1 @@
+[Chapter Exercise code for the book Introduction to Probability for Data Science by Stanley Chan, in conjunction to his ECE 302 course at Purdue.](https://probability4datascience.com/video_ch01.html) 
